@@ -1,0 +1,25 @@
+{
+  "name": "graphql-nodejs",
+  "version": "1.0.0",
+  "description": "GrahpQL server implementation test in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taiki-ss/graphql-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taiki-ss/graphql-nodejs/issues"
+  },
+  "homepage": "https://github.com/Taiki-ss/graphql-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
