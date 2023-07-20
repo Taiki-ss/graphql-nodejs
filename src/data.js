@@ -18,6 +18,12 @@ const Users = [
         published: true,
         author: 1,
       },
+      {
+        id: 3,
+        title: "Fateもいい",
+        published: true,
+        author: 1,
+      },
     ],
   },
   {
